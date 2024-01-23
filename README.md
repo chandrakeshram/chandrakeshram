@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chandrakeshram
 - 👀 I’m interested in Programming And Web development
-- 🌱 I’m currently pursuing BE in Information technology from PES Modern College of Engineering. I am currently studying in my 2nd Year. 
-- 💞️ I’m looking to get an internship for establishing myself in the software industry. 
+- 🌱 I’m currently pursuing BE in Information technology from PES Modern College of Engineering. 
+- 💞️ I’m looking to get an full time opportunity for establishing myself in the software industry. 
 - 📫 You can reach me via my LinkedIn Profile. My username is Chandrakesh Ram
 
 <!---
